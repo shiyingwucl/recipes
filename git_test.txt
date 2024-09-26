@@ -1,0 +1,7 @@
+git log --oneline
+
+(this gets the git log with the hashes for the commits, you can then use this hash to identify specific commit)
+
+git diff "commit hash" "your file,or branch or commit"
+
+(this compares the two states of the tracked file) 
